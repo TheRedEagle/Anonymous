@@ -1,4 +1,4 @@
-# RANLP2021-Kevin Blin & Andrei Kucharavy 
+# RANLP2021 
 Submission #70 repository to the RANLP 2021 conference
 
 ## Build and run the project
