@@ -1,5 +1,5 @@
-# RANLP2021-Anonymous submission
-Submission repository to the RANLP 2021 conference
+# RANLP2021-Kevin Blin & Andrei Kucharavy 
+Submission #70 repository to the RANLP 2021 conference
 
 ## Build and run the project
 ### Build
